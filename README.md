@@ -1,4 +1,4 @@
-                                                                 Ne işe yarıyor?
+                                           Ne işe yarıyor?
 
 
 
@@ -7,7 +7,7 @@ Spor Modu adlı itemi kullandığınız zaman yakınınızdaki aracın plakasın
 
 
 
-                                                                    Kurulum:
+                                              Kurulum:
 
 
 
