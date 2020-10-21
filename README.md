@@ -1,4 +1,4 @@
-                                                                        Ne işe yarıyor?
+                                                                 Ne işe yarıyor?
 
 
 
